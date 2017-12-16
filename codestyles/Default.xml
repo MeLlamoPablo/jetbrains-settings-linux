@@ -27,7 +27,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <AndroidXmlCodeStyleSettings>
@@ -83,6 +83,7 @@
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
@@ -288,5 +289,12 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
