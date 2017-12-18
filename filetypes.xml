@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="unique" type="TypeScript" />
       <mapping pattern="RatingType" type="TypeScript" />
     </extensionMap>
   </component>
