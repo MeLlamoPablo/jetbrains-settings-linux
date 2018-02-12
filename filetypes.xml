@@ -5,10 +5,11 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="apikey" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping pattern="unique" type="TypeScript" />
-      <mapping pattern="AbstractResourceProvider" type="TypeScript" />
       <mapping pattern="RatingType" type="TypeScript" />
+      <mapping pattern="AbstractResourceProvider" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
