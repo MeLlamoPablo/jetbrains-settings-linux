@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="uppy" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_transloadit.edgly.net_releases_uppy_v0.23.2_dist_uppy.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_transloadit.edgly.net_releases_uppy_v0.23.2_dist_uppy.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
