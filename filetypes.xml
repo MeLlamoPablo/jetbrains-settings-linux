@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="default-nginx-config-file" type="PLAIN_TEXT" />
       <mapping pattern="testlog" type="PLAIN_TEXT" />
+      <mapping pattern=".Dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="apikey" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
