@@ -1,0 +1,15 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>
